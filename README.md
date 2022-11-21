@@ -26,8 +26,8 @@
 
 ## Пройденные курсы:
 
-- [Rolling Scopes School](https://rs.school/) FRONT-END. STAGE 1 (RU)
-- [Rolling Scopes School](https://rs.school/) FRONT-END. STAGE 0 (RU)
+- [Rolling Scopes School](https://rs.school/) FRONT-END. STAGE 1 (RU) _2022-09-01 - 2022-11-30_ **Накурсе изучил:** JS, Preprocessors. SASS, Figma, JS Data Structures, DevTools, Webpack Basics, OOP, TypeScript.
+- [Rolling Scopes School](https://rs.school/) FRONT-END. STAGE 0 (RU) _2022-06-01 - 2022-08-31_ **Накурсе изучил:** Markdown & Git, HTML, CSS Basics, JS Basics, CSS Flex Layout, CSS Grid Layout. SCSS, DOM Api, HTML Forms.
 
 ## Рейтинг на Code Wars:
 
@@ -35,18 +35,34 @@
 
 ## Проекты в портфолио:
 
+### Винный магазин
+
 [![wine-shop-app](https://github.com/evn1054/evn1054/blob/main/images/wine-shop-app.jpg)](#)
 
-[Ссылка на репозиторий проекта "Винный магазин"](https://github.com/evn1054/wine-shop)
+[Ссылка на репозиторий проекта "Винный магазин".](https://github.com/evn1054/wine-shop) Проект реализован с помощью библиотеки React. Реализована маршрутизация внутри SPA приложения. Использовалась база данных на основе Google firebase.
+
+### Лендинг для путешествий
 
 [![travel-landing](https://github.com/evn1054/evn1054/blob/main/images/travel-website.jpg)](https://evn1054.github.io/travel-website-landing)
 
-[Ссылка на репозиторий проекта "Сайт для путешествий"](https://github.com/evn1054/travel-website-landing)
+[Ссылка на репозиторий проекта "Сайт для путешествий".](https://github.com/evn1054/travel-website-landing) Проект реализован для закрепления знаний по HTML, SCSS, БЭМ, а так же был реализован паттерн 7-1.
+
+### Калькулятор
 
 [![calc](https://github.com/evn1054/evn1054/blob/main/images/calc-app.jpg)](https://evn1054.github.io/Calc/index.html)
 
-[Ссылка на репозиторий проекта "Калькулятор"](https://github.com/evn1054/Calc)
+[Ссылка на репозиторий проекта "Калькулятор".](https://github.com/evn1054/Calc) Проект реализован для закрепления знаний по JS, работе с функциями в JS
+
+### Виджет погоды
 
 [![weather-app](https://github.com/evn1054/evn1054/blob/main/images/weather-app.jpg)](https://evn1054.github.io/WeatherFCC/2022_04_22_Weather_prj/index.html)
 
-[Ссылка на репозиторий проекта "Виджет погоды"](https://github.com/evn1054/WeatherFCC/tree/main/2022_04_22_Weather_prj)
+[Ссылка на репозиторий проекта "Виджет погоды".](https://github.com/evn1054/WeatherFCC/tree/main/2022_04_22_Weather_prj) Проект реализован для закрепления знаний по JS, создание fetch запросов, работа с API погоды.
+
+## Контакты:
+
+Telegram: [@Evn_v](https://t.me/Evn_v)
+
+Discord: Evn_v#8264
+
+E-mail: evn1054@gmail.com
