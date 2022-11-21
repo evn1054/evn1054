@@ -21,13 +21,20 @@
 
 ## Проекты в портфолио:
 
+[![wine-shop-app](https://github.com/evn1054/evn1054/blob/main/images/wine-shop-app.jpg)](#)
+
 [Ссылка на репозиторий проекта "Винный магазин"](https://github.com/evn1054/wine-shop)
+
+[![travel-landing](https://github.com/evn1054/evn1054/blob/main/images/travel-website.jpg)](https://evn1054.github.io/travel-website-landing)
 
 [Ссылка на репозиторий проекта "Сайт для путешествий"](https://github.com/evn1054/travel-website-landing)
 
+[![calc](https://github.com/evn1054/evn1054/blob/main/images/calc-app.jpg)](https://evn1054.github.io/Calc/index.html)
+
 [Ссылка на репозиторий проекта "Калькулятор"](https://github.com/evn1054/Calc)
 
-[![weather-app](https://github.com/evn1054/evn1054/blob/main/images/calc-app.jpg)](https://evn1054.github.io/Calc/index.html)
+[![weather-app](https://github.com/evn1054/evn1054/blob/main/images/weather-app.jpg)](https://evn1054.github.io/WeatherFCC/2022_04_22_Weather_prj/index.html)
+
 [Ссылка на репозиторий проекта "Виджет погоды"](https://github.com/evn1054/WeatherFCC/tree/main/2022_04_22_Weather_prj)
 
 ## Мой текущий стэк:
