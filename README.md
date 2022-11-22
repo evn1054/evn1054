@@ -4,8 +4,6 @@
 
 ![JS](https://img.shields.io/badge/JavaScript-252526?logo=javascript)
 ![React](https://img.shields.io/badge/React-252526?logo=React)
-![TypeScript](https://img.shields.io/badge/TypeScript-252526?logo=TypeScript)
-![Redux](https://img.shields.io/badge/Redux-252526?logo=Redux)
 ![WebPack](https://img.shields.io/badge/WebPack-252526?logo=WebPack)
 ![SAAS](https://img.shields.io/badge/SAAS-252526?logo=saas)
 ![HTML](https://img.shields.io/badge/HTML-252526?logo=HTML)
@@ -13,6 +11,9 @@
 ![NPM](https://img.shields.io/badge/NPM-252526?logo=NPM)
 ![Git](https://img.shields.io/badge/Git-252526?logo=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-252526?logo=GitHub)
+
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-252526?logo=TypeScript) -->
+<!-- ![Redux](https://img.shields.io/badge/Redux-252526?logo=Redux) -->
 
 ## Обо мне:
 
@@ -39,7 +40,7 @@
 
 [![wine-shop-app](https://github.com/evn1054/evn1054/blob/main/images/wine-shop-app.jpg)](#)
 
-[Ссылка на репозиторий проекта "Винный магазин".](https://github.com/evn1054/wine-shop) Проект реализован с помощью библиотеки React. Реализована маршрутизация внутри SPA приложения. Использовалась база данных на основе Google firebase.
+[Ссылка на репозиторий проекта "Винный магазин".](https://github.com/evn1054/wine-shop) Проект реализован с помощью библиотеки React. Реализована маршрутизация внутри SPA приложения. Использовалась база данных на основе Google firebase. Реализована работа с Local Storage.
 
 ### Лендинг для путешествий
 
