@@ -27,14 +27,20 @@
 
 ## Пройденные курсы:
 
-- [Rolling Scopes School](https://rs.school/) FRONT-END. STAGE 1 (RU) _2022-09-01 - 2022-11-30_ **Накурсе изучил:** JS, Preprocessors. SASS, Figma, JS Data Structures, DevTools, Webpack Basics, OOP, TypeScript.
-- [Rolling Scopes School](https://rs.school/) FRONT-END. STAGE 0 (RU) _2022-06-01 - 2022-08-31_ **Накурсе изучил:** Markdown & Git, HTML, CSS Basics, JS Basics, CSS Flex Layout, CSS Grid Layout. SCSS, DOM Api, HTML Forms.
+- [Rolling Scopes School](https://rs.school/) FRONT-END. STAGE 1 (RU) _2022-09-01 - 2022-11-30_ **На курсе изучил:** JS, Preprocessors. SASS, Figma, JS Data Structures, DevTools, Webpack Basics, OOP, TypeScript.
+- [Rolling Scopes School](https://rs.school/) FRONT-END. STAGE 0 (RU) _2022-06-01 - 2022-08-31_ **На курсе изучил:** Markdown & Git, HTML, CSS Basics, JS Basics, CSS Flex Layout, CSS Grid Layout. SCSS, DOM Api, HTML Forms.
 
 ## Рейтинг на Code Wars:
 
 [![codewars](https://www.codewars.com/users/evn1054/badges/small)](https://www.codewars.com/users/evn1054)
 
 ## Проекты в портфолио:
+
+### Новостной сервис
+
+[![news-service](https://github.com/evn1054/news/blob/news-dev/src/Screenshot.jpg)](https://evn1054.github.io/news/)
+
+[Ссылка на репозиторий проекта "Новостной сервис".](https://github.com/evn1054/news) Проект реализован с помощью библиотеки React. Используется API с сайта https://jsonplaceholder.typicode.com/ для отображение новостных постов. Реализована своя UI библиотека компонентов, кастомные хуки, в частности хук для запросов к базе данных. Реализована бесконечная лента на основе Observer API.
 
 ### Винный магазин
 
