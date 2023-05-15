@@ -2,22 +2,21 @@
 
 ## Мой текущий стэк:
 
+![TS](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![JS](https://img.shields.io/badge/JavaScript-252526?logo=javascript)
 ![React](https://img.shields.io/badge/React-252526?logo=React)
+![RTK query](https://img.shields.io/badge/rtk%20query-rtk%20query-green)
+![Redux toolkit](https://img.shields.io/badge/redux%20toolkit-redux%20toolkit-%23483285)
 ![WebPack](https://img.shields.io/badge/WebPack-252526?logo=WebPack)
 ![SAAS](https://img.shields.io/badge/SAAS-252526?logo=saas)
 ![HTML](https://img.shields.io/badge/HTML-252526?logo=HTML)
-![CSS](https://img.shields.io/badge/CSS-252526?logo=CSS)
-![NPM](https://img.shields.io/badge/NPM-252526?logo=NPM)
-![Git](https://img.shields.io/badge/Git-252526?logo=Git)
-![GitHub](https://img.shields.io/badge/GitHub-252526?logo=GitHub)
 
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-252526?logo=TypeScript) -->
 <!-- ![Redux](https://img.shields.io/badge/Redux-252526?logo=Redux) -->
 
 ## Обо мне:
 
-Во время обучения в школе я увлёкся программированием на Delphi. Реализовывал проекты с базами данных (телефонные справочники), решал логические задачи. После того как я поступил в университет, меня заинтересовала такая область деятельности как моушн-дизайн. [Вот мое портфолио по моушн-дизайну.](https://www.behance.net/evn_v) В своей работе моушн-дизайнером, мне много приходилось писать экспрешены. Это такие выражения для оптимизации работы на языке JavaScript. В 2022 году я вернулся к истокам - программированию. Давайте менять мир к лучшему!
+Во время обучения в школе я увлёкся программированием на Delphi. Реализовывал проекты с базами данных (телефонные справочники), решал логические задачи. После того как я поступил в университет, меня заинтересовала такая область деятельности как моушн-дизайн. В своей работе моушн-дизайнером, мне много приходилось писать экспрешены. Это такие выражения для оптимизации работы на языке JavaScript. В 2022 году я вернулся к истокам - программированию. Давайте менять мир к лучшему!
 
 ## Моё образование:
 
